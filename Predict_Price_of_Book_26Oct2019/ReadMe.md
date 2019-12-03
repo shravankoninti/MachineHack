@@ -7,3 +7,10 @@
 
 
 <img width="631" alt="Lb_rank_image" src="https://user-images.githubusercontent.com/6191291/67622856-3b696580-f83c-11e9-892c-ba64b4ebcf12.PNG">
+
+
+I got first in this competition and my work is posted in this magazine link:
+
+https://analyticsindiamag.com/how-these-data-science-enthusiasts-solved-the-predict-books-price-hackathon/
+
+
